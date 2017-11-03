@@ -1,6 +1,6 @@
 # Asteroids
 
-[Play Game Here!](http://louisrobinson.io/Asteroids/)
+[Play Game Here!](http://ljr5102.github.io/Asteroids/)
 
 ## Summary
 An implementation of the classic arcade game Asteroids.
